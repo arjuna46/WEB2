@@ -66,7 +66,7 @@ lab7_php_ci/
 
 ## Tata Cara Penginstalan
 1. Clone Repository
-```git clone https://github.com/username/lab7_php_ci.git```
+```git clone https://github.com/arjuna46/WEB2.git```
 Catatan: Ganti username dengan nama pengguna GitHub Anda.
 2. Konfigurasi File .env
 Salin file env menjadi .env:
